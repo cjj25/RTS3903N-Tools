@@ -2,6 +2,10 @@
 `Linux version 3.10.27 (zhangzhidan@XY-201) (gcc version 4.8.5 20150209 (prerelease) (Realtek RSDK-4.8.5p1 Build 2521) ) #29 PREEMPT Wed May 22 14:16:12 CST 2019
 `
 
+## Update: 10/10/2021
+I've now compiled and included the uClibc 0.9.33 interpreter with LD_PRELOAD enabled (disabled by default on the stock SDK), this is incredibly useful for hooking/trampoling library calls.\
+Usage: `mount -o bind ld-uClibc-0.9.33.so /lib/ld-uClibc-0.9.33.so`
+
 Here is a collection of binaries I've compiled while debugging and developing on the RTS3903N chipset.
 ## What's included
 - busybox
