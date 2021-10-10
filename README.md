@@ -33,3 +33,7 @@ Here is a collection of binaries I've compiled while debugging and developing on
     - [rsdk-6.4.1-5281-EL-4.9-u1.0-m32fut-180611](https://github.com/cjj25/RTS3903N-rsdk-4.8.5-5281)
 - [RTSPServer](https://github.com/cjj25/Yi-RTS3903N-RTSPServer)
 
+### Interesting research
+- https://dalpix.com/reverse-engineering-ip-camera-part-4 @aporto
+- https://drmnsamoliu.github.io/ @DrmnSamoLiu
+- https://georgeimmi.com/download/tapo/c200/ @DrmnSamoLiu
